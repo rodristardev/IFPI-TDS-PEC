@@ -1,5 +1,8 @@
 """01. Escreva um programa que ler três valores inteiros (a, b, e c).
-Calcule o mostre o resultado da função:"""
+Calcule o mostre o resultado da função:
+
+    def calcular(a, b, c):
+        return 2 * a + 5 * b - c"""
 
 #função que calcula expressão desejada.
 def funcao(a, b, c):
